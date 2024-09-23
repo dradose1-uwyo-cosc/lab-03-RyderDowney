@@ -2,7 +2,7 @@
 # UWYO COSC 1010
 # 09/23/2024
 # Lab 03 
-# Lab Section: 
+# Lab Section: 14
 # Sources, people worked with, help given to: 
 # your
 # comments
